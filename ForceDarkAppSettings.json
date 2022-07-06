@@ -1,0 +1,440 @@
+[
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vsco.cam",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.zing.zalo",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.telegram.messenger",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.docs.editors.docs",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vttm.vietteldiscovery",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.niksoftware.snapseed",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.mgoogle.android.gms",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.cameralite",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.miui.miwallpaper.miweatherwallpaper",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.docs.editors.sheets",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vbook.app",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.estrongs.android.pop.dark",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.miui.miwallpaper.snowmountain",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.v2ray.ang",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.zwanoo.android.speedtest",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.microsoft.skydrive",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.mobisystems.fileman",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.flyersoft.moonreaderp",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.youmusic.magictiles",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.gm",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vanced.android.youtube",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.adaway",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.duokan.phone.remotecontroller",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.thunderdog.challegram",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.estrongs.android.pop",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "vn.tiki.app.tikiandroid",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.lazada.android",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.bigwinepot.nwdn.international",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.twitter.android",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.maps",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.grabtaxi.passenger",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "fr.playsoft.vnexpress",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vozfapp.next",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "xyz.be.customer",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.mservice.momotransfer",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.miui.miwallpaper.mars",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.sierrawireless.mhswatcher",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.videolan.vlc",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.photos",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.spotify.music",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.x8bit.bitwarden",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.lenovo.lenovoworkstationdiagnostics",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.gojek.app",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.facebook.katana",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.mixplorer",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.miui.miwallpaper.earth",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.pharmacity_extracare",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.viettel.tv360",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.instapro.android",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.facebook.orca",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.mozilla.firefox",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "idm.internet.download.manager.plus",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.cloudflare.onedotonedotonedotone",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.translate",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "cy.hjtgpsnmlqdrrq",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.apps.photosgo",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.miui.miwallpaper.geometry",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "io.friendly",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.miui.miwallpaper.saturn",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.freeandroidtools.safetynettest",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.soundcloud.android",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.google.android.keep",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vingroup.vinid",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "org.codeaurora.snapcam",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.shopee.vn",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.deliverynow",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.woowahan.vn.baemin",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.mbmobile",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.vn.dic.e.v.ui",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "mobile.acb.com.vn",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.xiaomi.hm.health",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "cn.wps.moffice_eng",
+        "showInSettings": true
+    },
+    {
+        "defaultEnable": false,
+        "overrideEnableValue": 0,
+        "packageName": "com.beeasy.toppay",
+        "showInSettings": true
+    }
+]
