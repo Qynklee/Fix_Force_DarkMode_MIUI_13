@@ -4,6 +4,9 @@
   - Run adb to get all user installed package name
   - Create a magisk module with all this package name, this module will be add all app to Dark mode options setting in Settings MIUI.
 
+- Requirements:
+  - Turn on ADB via USB in Developer Mode
+  - Connect phone to PC before run tool
 - How to use:
   - By source code:
     - Run code.py with python 3.7 or above in Windows host with your phone connected via adb.
